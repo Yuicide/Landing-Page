@@ -117,4 +117,34 @@ img {
     text-align: center;
     font-size: 18px; 
     color: #1f2937;
+    padding-bottom: 125px;
+}
+
+.section-three {
+    background-color: #E5E7EB;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937;
+    margin: 0%;
+}
+
+.quote-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    width: 750px;
+}
+.quote-by {
+    color: #1f2937;
+    font-weight: bolder;
+    font-size: 24px;
 }
